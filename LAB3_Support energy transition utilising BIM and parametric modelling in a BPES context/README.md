@@ -14,4 +14,6 @@ Modelling a simple building (exercise).
 Extracting data from the model.
 
 ## Software requirements and download links
-
+In KLO 1 part 2 we use modelling software like Revit and ArchiCad. So prepare that you have a licence, for instance a educational version.
+It is allowed to use your own modelling software, but it must have the possibility to export data in IFC-format.
+In KLO 3 we use Blender. Here is the link: https://docs.bonsaibim.org/quickstart/installation.html
